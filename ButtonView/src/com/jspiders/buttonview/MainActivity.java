@@ -62,4 +62,8 @@ public class MainActivity extends Activity implements OnClickListener {
 			break;
 		}
 	}
+<<<<<<< HEAD
+=======
+	
+>>>>>>> refs/remotes/origin/master
 }
